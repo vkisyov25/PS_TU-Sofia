@@ -1,0 +1,15 @@
+D:\C#Programs\PS_TU-Sofia\PS_43_Ventsy\Welcome\obj\Debug\net8.0\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Programs\PS_TU-Sofia\PS_43_Ventsy\Welcome\obj\Debug\net8.0\Welcome.AssemblyInfoInputs.cache
+D:\C#Programs\PS_TU-Sofia\PS_43_Ventsy\Welcome\obj\Debug\net8.0\Welcome.AssemblyInfo.cs
+D:\C#Programs\PS_TU-Sofia\PS_43_Ventsy\Welcome\obj\Debug\net8.0\Welcome.csproj.CoreCompileInputs.cache
+D:\C#Programs\PS_TU-Sofia\PS_43_Ventsy\Welcome\obj\Debug\net8.0\Welcome.sourcelink.json
+D:\C#Programs\PS_TU-Sofia\PS_43_Ventsy\Welcome\bin\Debug\net8.0\Welcome.exe
+D:\C#Programs\PS_TU-Sofia\PS_43_Ventsy\Welcome\bin\Debug\net8.0\Welcome.deps.json
+D:\C#Programs\PS_TU-Sofia\PS_43_Ventsy\Welcome\bin\Debug\net8.0\Welcome.runtimeconfig.json
+D:\C#Programs\PS_TU-Sofia\PS_43_Ventsy\Welcome\bin\Debug\net8.0\Welcome.dll
+D:\C#Programs\PS_TU-Sofia\PS_43_Ventsy\Welcome\bin\Debug\net8.0\Welcome.pdb
+D:\C#Programs\PS_TU-Sofia\PS_43_Ventsy\Welcome\obj\Debug\net8.0\Welcome.dll
+D:\C#Programs\PS_TU-Sofia\PS_43_Ventsy\Welcome\obj\Debug\net8.0\refint\Welcome.dll
+D:\C#Programs\PS_TU-Sofia\PS_43_Ventsy\Welcome\obj\Debug\net8.0\Welcome.pdb
+D:\C#Programs\PS_TU-Sofia\PS_43_Ventsy\Welcome\obj\Debug\net8.0\Welcome.genruntimeconfig.cache
+D:\C#Programs\PS_TU-Sofia\PS_43_Ventsy\Welcome\obj\Debug\net8.0\ref\Welcome.dll
