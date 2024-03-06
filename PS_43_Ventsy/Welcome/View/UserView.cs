@@ -24,5 +24,10 @@ namespace Welcome.View
             Console.WriteLine($"Faculty Number: {_viewModel.FacultyNumver}");
             Console.WriteLine($"Password: {_viewModel.Password}");
         }
+
+        public void DisplayError()
+        {
+            throw new Exception("Error");
+        }
     }
 }

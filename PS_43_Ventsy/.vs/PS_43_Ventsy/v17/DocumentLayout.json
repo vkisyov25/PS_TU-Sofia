@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{04952077-8F4C-4FDD-A49E-0A951FBF6450}|Welcome\\Welcome.csproj|d:\\c#programs\\ps_tu-sofia\\ps_43_ventsy\\welcome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04952077-8F4C-4FDD-A49E-0A951FBF6450}|Welcome\\Welcome.csproj|solutionrelative:welcome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6F50625-9E1F-409F-9ED2-A25DC1473172}|WelcomeExtended\\WelcomeExtended.csproj|d:\\c#programs\\ps_tu-sofia\\ps_43_ventsy\\welcomeextended\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F50625-9E1F-409F-9ED2-A25DC1473172}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04952077-8F4C-4FDD-A49E-0A951FBF6450}|Welcome\\Welcome.csproj|d:\\c#programs\\ps_tu-sofia\\ps_43_ventsy\\welcome\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04952077-8F4C-4FDD-A49E-0A951FBF6450}|Welcome\\Welcome.csproj|solutionrelative:welcome\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04952077-8F4C-4FDD-A49E-0A951FBF6450}|Welcome\\Welcome.csproj|d:\\c#programs\\ps_tu-sofia\\ps_43_ventsy\\welcome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04952077-8F4C-4FDD-A49E-0A951FBF6450}|Welcome\\Welcome.csproj|solutionrelative:welcome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{04952077-8F4C-4FDD-A49E-0A951FBF6450}|Welcome\\Welcome.csproj|d:\\c#programs\\ps_tu-sofia\\ps_43_ventsy\\welcome\\view\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +19,40 @@
       "RelativeMoniker": "D:0:0:{04952077-8F4C-4FDD-A49E-0A951FBF6450}|Welcome\\Welcome.csproj|solutionrelative:welcome\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C6F50625-9E1F-409F-9ED2-A25DC1473172}|WelcomeExtended\\WelcomeExtended.csproj|d:\\c#programs\\ps_tu-sofia\\ps_43_ventsy\\welcomeextended\\welcomeextended.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6F50625-9E1F-409F-9ED2-A25DC1473172}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\welcomeextended.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F50625-9E1F-409F-9ED2-A25DC1473172}|WelcomeExtended\\WelcomeExtended.csproj|d:\\c#programs\\ps_tu-sofia\\ps_43_ventsy\\welcomeextended\\others\\delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F50625-9E1F-409F-9ED2-A25DC1473172}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\others\\delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F50625-9E1F-409F-9ED2-A25DC1473172}|WelcomeExtended\\WelcomeExtended.csproj|d:\\c#programs\\ps_tu-sofia\\ps_43_ventsy\\welcomeextended\\others\\delegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F50625-9E1F-409F-9ED2-A25DC1473172}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\others\\delegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F50625-9E1F-409F-9ED2-A25DC1473172}|WelcomeExtended\\WelcomeExtended.csproj|d:\\c#programs\\ps_tu-sofia\\ps_43_ventsy\\welcomeextended\\helpers\\loggerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F50625-9E1F-409F-9ED2-A25DC1473172}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\helpers\\loggerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F50625-9E1F-409F-9ED2-A25DC1473172}|WelcomeExtended\\WelcomeExtended.csproj|d:\\c#programs\\ps_tu-sofia\\ps_43_ventsy\\welcomeextended\\loggers\\loggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F50625-9E1F-409F-9ED2-A25DC1473172}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\loggers\\loggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F50625-9E1F-409F-9ED2-A25DC1473172}|WelcomeExtended\\WelcomeExtended.csproj|d:\\c#programs\\ps_tu-sofia\\ps_43_ventsy\\welcomeextended\\loggers\\hashlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F50625-9E1F-409F-9ED2-A25DC1473172}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\loggers\\hashlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F50625-9E1F-409F-9ED2-A25DC1473172}|WelcomeExtended\\WelcomeExtended.csproj|d:\\c#programs\\ps_tu-sofia\\ps_43_ventsy\\welcomeextended\\helpers\\iloger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F50625-9E1F-409F-9ED2-A25DC1473172}|WelcomeExtended\\WelcomeExtended.csproj|solutionrelative:welcomeextended\\helpers\\iloger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{04952077-8F4C-4FDD-A49E-0A951FBF6450}|Welcome\\Welcome.csproj|d:\\c#programs\\ps_tu-sofia\\ps_43_ventsy\\welcome\\others\\userrolesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04952077-8F4C-4FDD-A49E-0A951FBF6450}|Welcome\\Welcome.csproj|solutionrelative:welcome\\others\\userrolesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04952077-8F4C-4FDD-A49E-0A951FBF6450}|Welcome\\Welcome.csproj|d:\\c#programs\\ps_tu-sofia\\ps_43_ventsy\\welcome\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04952077-8F4C-4FDD-A49E-0A951FBF6450}|Welcome\\Welcome.csproj|solutionrelative:welcome\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,19 +62,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\Welcome\\Program.cs",
+              "RelativeDocumentMoniker": "Welcome\\Program.cs",
+              "ToolTip": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\Welcome\\Program.cs",
+              "RelativeToolTip": "Welcome\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T22:04:10.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ILoger.cs",
+              "DocumentMoniker": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\WelcomeExtended\\Helpers\\ILoger.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Helpers\\ILoger.cs",
+              "ToolTip": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\WelcomeExtended\\Helpers\\ILoger.cs",
+              "RelativeToolTip": "WelcomeExtended\\Helpers\\ILoger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T17:17:58.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HashLogger.cs",
+              "DocumentMoniker": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\WelcomeExtended\\Loggers\\HashLogger.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Loggers\\HashLogger.cs",
+              "ToolTip": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\WelcomeExtended\\Loggers\\HashLogger.cs",
+              "RelativeToolTip": "WelcomeExtended\\Loggers\\HashLogger.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T13:46:34.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoggerProvider.cs",
+              "DocumentMoniker": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\WelcomeExtended\\Loggers\\LoggerProvider.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Loggers\\LoggerProvider.cs",
+              "ToolTip": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\WelcomeExtended\\Loggers\\LoggerProvider.cs",
+              "RelativeToolTip": "WelcomeExtended\\Loggers\\LoggerProvider.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:59:47.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delegates.cs",
+              "DocumentMoniker": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\WelcomeExtended\\Others\\Delegates.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Others\\Delegates.cs",
+              "ToolTip": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\WelcomeExtended\\Others\\Delegates.cs",
+              "RelativeToolTip": "WelcomeExtended\\Others\\Delegates.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T17:19:14.221Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\Welcome\\Program.cs",
-              "RelativeDocumentMoniker": "Welcome\\Program.cs",
-              "ToolTip": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\Welcome\\Program.cs*",
-              "RelativeToolTip": "Welcome\\Program.cs*",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "DocumentMoniker": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\WelcomeExtended\\Program.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Program.cs",
+              "ToolTip": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\WelcomeExtended\\Program.cs",
+              "RelativeToolTip": "WelcomeExtended\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB4AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T22:04:10.22Z",
+              "WhenOpened": "2024-03-06T13:43:45.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "delegate.cs",
+              "DocumentMoniker": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\WelcomeExtended\\Others\\delegate.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Others\\delegate.cs",
+              "ToolTip": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\WelcomeExtended\\Others\\delegate.cs",
+              "RelativeToolTip": "WelcomeExtended\\Others\\delegate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T17:22:43.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\Welcome\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Welcome\\Model\\User.cs",
+              "ToolTip": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\Welcome\\Model\\User.cs",
+              "RelativeToolTip": "Welcome\\Model\\User.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAYwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T21:09:53.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WelcomeExtended",
+              "DocumentMoniker": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\WelcomeExtended\\WelcomeExtended.csproj",
+              "RelativeDocumentMoniker": "WelcomeExtended\\WelcomeExtended.csproj",
+              "ToolTip": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\WelcomeExtended\\WelcomeExtended.csproj",
+              "RelativeToolTip": "WelcomeExtended\\WelcomeExtended.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-06T13:44:46.78Z",
               "EditorCaption": ""
             },
             {
@@ -53,27 +189,27 @@
               "RelativeDocumentMoniker": "Welcome\\View\\UserView.cs",
               "ToolTip": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\Welcome\\View\\UserView.cs",
               "RelativeToolTip": "Welcome\\View\\UserView.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBQAAAApAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-23T21:57:57.341Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserViewModel.cs",
-              "DocumentMoniker": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\Welcome\\ViewModel\\UserViewModel.cs",
-              "RelativeDocumentMoniker": "Welcome\\ViewModel\\UserViewModel.cs",
-              "ToolTip": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\Welcome\\ViewModel\\UserViewModel.cs",
-              "RelativeToolTip": "Welcome\\ViewModel\\UserViewModel.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwCwAAAABAAAA",
+              "DocumentIndex": 7,
+              "Title": "LoggerHelper.cs",
+              "DocumentMoniker": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\WelcomeExtended\\Helpers\\LoggerHelper.cs",
+              "RelativeDocumentMoniker": "WelcomeExtended\\Helpers\\LoggerHelper.cs",
+              "ToolTip": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\WelcomeExtended\\Helpers\\LoggerHelper.cs",
+              "RelativeToolTip": "WelcomeExtended\\Helpers\\LoggerHelper.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAIAwwAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T21:43:47.777Z",
+              "WhenOpened": "2024-03-06T17:05:02.097Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "UserRolesEnum.cs",
               "DocumentMoniker": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\Welcome\\Others\\UserRolesEnum.cs",
               "RelativeDocumentMoniker": "Welcome\\Others\\UserRolesEnum.cs",
@@ -86,15 +222,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\Welcome\\Model\\User.cs",
-              "RelativeDocumentMoniker": "Welcome\\Model\\User.cs",
-              "ToolTip": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\Welcome\\Model\\User.cs",
-              "RelativeToolTip": "Welcome\\Model\\User.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAAACsAAAATAAAA",
+              "DocumentIndex": 12,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\Welcome\\ViewModel\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "Welcome\\ViewModel\\UserViewModel.cs",
+              "ToolTip": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\Welcome\\ViewModel\\UserViewModel.cs",
+              "RelativeToolTip": "Welcome\\ViewModel\\UserViewModel.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwBkAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T21:09:53.461Z",
+              "WhenOpened": "2024-02-23T21:43:47.777Z",
               "EditorCaption": ""
             }
           ]

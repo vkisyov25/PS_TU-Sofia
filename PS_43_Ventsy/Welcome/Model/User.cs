@@ -9,19 +9,19 @@ namespace Welcome.Model
 {
     public class User
     {
-        private string name;
-        private string password;
-        private readonly UserRolesEnum roles;
-        private string facultyNumber;
-        private string email;
-        public User(string name,string passwprd, UserRolesEnum userRolesEnum, string facultyNumber, string email) 
+        private string? name;
+        private string? password;
+        private UserRolesEnum roles;
+        private string? facultyNumber;
+        private string? email;
+       /* public User(string name,string passwprd, UserRolesEnum userRolesEnum, string facultyNumber, string email) 
         { 
             this.name = name;
             this.Password = passwprd;
             this.roles = userRolesEnum;
             this.facultyNumber = facultyNumber;
             this.email = email;
-        }
+        }*/
 
 
         public string Name {
@@ -52,7 +52,7 @@ namespace Welcome.Model
         public UserRolesEnum Roles
         {
             get { return roles; }
-            set {} 
+            set { roles = value; } 
         }
 
         public string FacultyNumber 

@@ -112,6 +112,16 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "Welcome/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Welcome.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Welcome.dll": {}
+        }
       }
     }
   },
@@ -361,11 +371,17 @@
         "microsoft.extensions.primitives.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Welcome/1.0.0": {
+      "type": "project",
+      "path": "../Welcome/Welcome.csproj",
+      "msbuildProject": "../Welcome/Welcome.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Microsoft.Extensions.Logging >= 8.0.0"
+      "Microsoft.Extensions.Logging >= 8.0.0",
+      "Welcome >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -394,7 +410,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\Welcome\\Welcome.csproj": {
+              "projectPath": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\Welcome\\Welcome.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

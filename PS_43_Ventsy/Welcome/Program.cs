@@ -9,7 +9,16 @@ namespace Welcome
     {
         static void Main(string[] args)
         {
-            User user = new User("Ventsy", "a", Others.UserRolesEnum.STUDENT, "121221095", "ventsy@gmail.com");
+            var user = new User
+            {
+                Name = "Ventsy",
+                Password = "password123",
+                Roles = Welcome.Others.UserRolesEnum.STUDENT,
+                FacultyNumber = "121221095",
+                Email = "ventsy@gmail.com"
+             
+            };
+
             UserViewModel viewModel = new UserViewModel(user);
             UserView view = new UserView(viewModel);
             view.Display();
