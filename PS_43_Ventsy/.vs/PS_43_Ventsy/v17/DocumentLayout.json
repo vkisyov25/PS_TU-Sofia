@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\Welcome\\Others\\UserRolesEnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Welcome\\Others\\UserRolesEnum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04952077-8F4C-4FDD-A49E-0A951FBF6450}|Welcome\\Welcome.csproj|d:\\c#programs\\ps_tu-sofia\\ps_43_ventsy\\welcome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04952077-8F4C-4FDD-A49E-0A951FBF6450}|Welcome\\Welcome.csproj|solutionrelative:welcome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\Welcome\\ViewModel\\UserViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Welcome\\ViewModel\\UserViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04952077-8F4C-4FDD-A49E-0A951FBF6450}|Welcome\\Welcome.csproj|d:\\c#programs\\ps_tu-sofia\\ps_43_ventsy\\welcome\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04952077-8F4C-4FDD-A49E-0A951FBF6450}|Welcome\\Welcome.csproj|solutionrelative:welcome\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\Welcome\\View\\UserView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Welcome\\View\\UserView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04952077-8F4C-4FDD-A49E-0A951FBF6450}|Welcome\\Welcome.csproj|d:\\c#programs\\ps_tu-sofia\\ps_43_ventsy\\welcome\\view\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04952077-8F4C-4FDD-A49E-0A951FBF6450}|Welcome\\Welcome.csproj|solutionrelative:welcome\\view\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\Welcome\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Welcome\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04952077-8F4C-4FDD-A49E-0A951FBF6450}|Welcome\\Welcome.csproj|d:\\c#programs\\ps_tu-sofia\\ps_43_ventsy\\welcome\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04952077-8F4C-4FDD-A49E-0A951FBF6450}|Welcome\\Welcome.csproj|solutionrelative:welcome\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\Welcome\\Model\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Welcome\\Model\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04952077-8F4C-4FDD-A49E-0A951FBF6450}|Welcome\\Welcome.csproj|d:\\c#programs\\ps_tu-sofia\\ps_43_ventsy\\welcome\\others\\userrolesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04952077-8F4C-4FDD-A49E-0A951FBF6450}|Welcome\\Welcome.csproj|solutionrelative:welcome\\others\\userrolesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,19 +30,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\Welcome\\Program.cs",
               "RelativeDocumentMoniker": "Welcome\\Program.cs",
-              "ToolTip": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\Welcome\\Program.cs",
-              "RelativeToolTip": "Welcome\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAJAAAA",
+              "ToolTip": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\Welcome\\Program.cs*",
+              "RelativeToolTip": "Welcome\\Program.cs*",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T22:04:10.22Z"
+              "WhenOpened": "2024-02-23T22:04:10.22Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -52,9 +53,10 @@
               "RelativeDocumentMoniker": "Welcome\\View\\UserView.cs",
               "ToolTip": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\Welcome\\View\\UserView.cs",
               "RelativeToolTip": "Welcome\\View\\UserView.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAApAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBQAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T21:57:57.341Z"
+              "WhenOpened": "2024-02-23T21:57:57.341Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -64,14 +66,14 @@
               "RelativeDocumentMoniker": "Welcome\\ViewModel\\UserViewModel.cs",
               "ToolTip": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\Welcome\\ViewModel\\UserViewModel.cs",
               "RelativeToolTip": "Welcome\\ViewModel\\UserViewModel.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAgwCwAAAABAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-23T21:43:47.777Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "UserRolesEnum.cs",
               "DocumentMoniker": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\Welcome\\Others\\UserRolesEnum.cs",
               "RelativeDocumentMoniker": "Welcome\\Others\\UserRolesEnum.cs",
@@ -84,15 +86,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\Welcome\\Model\\User.cs",
               "RelativeDocumentMoniker": "Welcome\\Model\\User.cs",
               "ToolTip": "D:\\C#Programs\\PS_TU-Sofia\\PS_43_Ventsy\\Welcome\\Model\\User.cs",
               "RelativeToolTip": "Welcome\\Model\\User.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAkwCgAAAARAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACsAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-23T21:09:53.461Z"
+              "WhenOpened": "2024-02-23T21:09:53.461Z",
+              "EditorCaption": ""
             }
           ]
         }

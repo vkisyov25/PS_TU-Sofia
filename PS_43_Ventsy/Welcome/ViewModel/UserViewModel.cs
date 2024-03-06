@@ -23,11 +23,11 @@ namespace Welcome.ViewModel
             set { _user.Name = value; }
         }
 
-        /*public string Password
+        public string Password
         {
             get { return _user.Password; }
             set { _user.Password = value; }
-        }*/
+        }
 
         public UserRolesEnum Roles
         {

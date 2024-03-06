@@ -22,6 +22,7 @@ namespace Welcome.View
             Console.WriteLine($"User: {_viewModel.Name}");
             Console.WriteLine($"Role: {_viewModel.Roles}");
             Console.WriteLine($"Faculty Number: {_viewModel.FacultyNumver}");
+            Console.WriteLine($"Password: {_viewModel.Password}");
         }
     }
 }

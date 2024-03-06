@@ -17,7 +17,7 @@ namespace Welcome.Model
         public User(string name,string passwprd, UserRolesEnum userRolesEnum, string facultyNumber, string email) 
         { 
             this.name = name;
-            this.password = passwprd;
+            this.Password = passwprd;
             this.roles = userRolesEnum;
             this.facultyNumber = facultyNumber;
             this.email = email;
@@ -32,7 +32,21 @@ namespace Welcome.Model
         public string Password
         {
             get { return password; }
-            set { password = value; }
+            set {
+
+                string pass = "";
+            
+                for(int i=0; i<value.Length; i++){
+                    char a = value[i];
+                    int b = (int)a+13;
+                    a = (char)b;
+                    pass += a;
+                   
+                }
+
+                password = pass;
+
+            }
         }
 
         public UserRolesEnum Roles
