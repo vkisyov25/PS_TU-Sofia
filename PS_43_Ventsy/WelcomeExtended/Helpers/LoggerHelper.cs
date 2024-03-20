@@ -16,5 +16,7 @@ namespace WelcomeExtended.Helpers
             loggerFactory.AddProvider(new LoggerProvider());
             return loggerFactory.CreateLogger(categoryName);
         }
+
+        
     }
 }

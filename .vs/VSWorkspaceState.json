@@ -3,8 +3,14 @@
     "",
     "\\PS_43_Ventsy",
     "\\PS_43_Ventsy\\Welcome",
-    "\\PS_43_Ventsy\\Welcome\\Model"
+    "\\PS_43_Ventsy\\WelcomeExtended",
+    "\\PS_43_Ventsy\\WelcomeExtended\\Data",
+    "\\PS_43_Ventsy\\WelcomeExtended\\Helpers",
+    "\\PS_43_Ventsy\\WelcomeExtended\\Loggers",
+    "\\PS_43_Ventsy\\WelcomeExtended\\Others",
+    "\\PS_43_Ventsy\\Welcome\\Others",
+    "\\PS_43_Ventsy\\Welcome\\View"
   ],
-  "SelectedNode": "\\PS_43_Ventsy\\Welcome\\Program.cs",
+  "SelectedNode": "\\PS_43_Ventsy\\WelcomeExtended\\Helpers\\UserHelper.cs",
   "PreviewInSolutionExplorer": false
 }

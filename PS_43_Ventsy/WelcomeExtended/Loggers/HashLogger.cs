@@ -57,6 +57,33 @@ namespace WelcomeExtended.Loggers
             Console.WriteLine("-LOGGER -");
             Console.ResetColor();
             _logMessages[eventId.Id] = message;
+
+
+        }
+
+       /* Да се промени кода на HashLogger така, че да може да принтираме всички
+          записани съобщения.*/
+        public void PrintErrors()
+        {
+            foreach (var err in _logMessages)
+            {
+                Console.WriteLine(err.Value);
+            }
+        }
+
+        /*Да се промени кода на HashLogger така, че да принтираме събитие по дадено
+          eventId.*/
+        public void PrintErrorById(int id)
+        {
+            Console.WriteLine(_logMessages[id]);
+        }
+
+        /*Да се промени кода на HashLogger така, че да можем да изтриваме събитие по
+          дадена eventId.*/
+        public void RemoveErrorById(int id)
+        {
+            string txt = "";
+            _logMessages.Remove(id, out txt);
         }
     }
 }

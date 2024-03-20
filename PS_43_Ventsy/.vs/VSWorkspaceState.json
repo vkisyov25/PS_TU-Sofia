@@ -1,11 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\DateLayer",
     "\\Welcome",
-    "\\Welcome\\Others",
-    "\\Welcome\\View",
-    "\\Welcome\\ViewModel"
+    "\\WelcomeExtended"
   ],
-  "SelectedNode": "\\Welcome\\Others\\UserRolesEnum.cs",
+  "SelectedNode": "\\PS_43_Ventsy.sln",
   "PreviewInSolutionExplorer": false
 }
